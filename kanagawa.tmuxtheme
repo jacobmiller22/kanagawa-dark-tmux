@@ -3,12 +3,12 @@
 
 # --> Kanagawa
 thm_bg="#000000"
-thm_fg="#aaa"
+thm_fg="#0f0"
 thm_cyan="#6a9589" #color6
 thm_black="#000000"
 thm_gray="#16161d" #color0
 thm_magenta="#957FB8" #color5
-thm_pink="#938aa9" 
+thm_pink="#f00" 
 thm_red="#c34043" #color1
 thm_green="#76946a" #color2
 thm_yellow="#c0a36e" #color3
