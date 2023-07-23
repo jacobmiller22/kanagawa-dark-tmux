@@ -4,14 +4,14 @@
 # --> Kanagawa
 thm_bg="#000000"
 thm_fg="#dcd7ba"
-thm_cyan="#6a9589"
-thm_black="#090618"
-thm_gray="#363646"
-thm_magenta="#957fb8"
-thm_pink="#938aa9"
-thm_red="#c34043"
-thm_green="#76946a"
-thm_yellow="#c0a36e"
-thm_blue="#7e9cd8"
-thm_orange="#ffa066"
-thm_altblack="#727169"
+thm_cyan="#6a9589" #color6
+thm_black="#000000"
+thm_gray="#16161d" #color0
+thm_magenta="#957FB8" #color5
+thm_pink="#938aa9" 
+thm_red="#c34043" #color1
+thm_green="#76946a" #color2
+thm_yellow="#c0a36e" #color3
+thm_blue="#7e9cd8" #color4
+thm_orange="#e6c384" #color11
+thm_altblack="#16161d" #color0
