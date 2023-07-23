@@ -1,7 +1,9 @@
 # Kanagawa for tmux
-  This is a fork of [dreamsofcode-io/catppuccin-tmux](https://github.com/dreamsofcode-io/catppuccin-tmux), but using the [kanagawa](https://github.com/rebelot/kanagawa.nvim) colorscheme.
+
+This is a fork of [eliobtl1/kanagawa-tmux]("https://gitlab.com/eliobtl1/kanagawa-tmux.git"), but a darker version to fit my kanagawa nvim configuration that uses [rebelot/kanagawa.nvim]("https://github.com/rebelot/kanagawa.nvim").
 
 ## Screenshot :
+
 ![](./kanagawa-tmux.png)
 
 ## Usage
@@ -12,7 +14,7 @@
 2. Add the kanagawa-tmux plugin:
 
 ```bash
-set -g @plugin 'https://gitlab.com/eliobtl1/tmux'
+set -g @plugin 'https://github.com/jacobmiller22/kanagawa-dark-tmux'
 # ...alongside
 set -g @plugin 'tmux-plugins/tpm'
 ```
@@ -43,7 +45,7 @@ set -g @kanagawa_window_tabs_enabled on # or off to disable window_tabs
 ##### Configure separator
 
 By default, the theme will use a round separator for left and right.
-To overwrite it use `@kanagawa_left_separator` and `@kanagawa_right_separator` 
+To overwrite it use `@kanagawa_left_separator` and `@kanagawa_right_separator`
 
 ```sh
 set -g @kanagawa_left_separator "█"
